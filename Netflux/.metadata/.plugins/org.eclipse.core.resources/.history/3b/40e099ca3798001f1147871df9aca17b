@@ -1,0 +1,5 @@
+spring.datasource.url=jdbc:postgresql://localhost:5432/movie
+spring.datasource.username=movie_user
+spring.datasource.password=movie_password
+spring.jpa.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
+server.port=7070

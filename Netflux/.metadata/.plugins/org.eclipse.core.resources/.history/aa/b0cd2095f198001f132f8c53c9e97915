@@ -1,0 +1,8 @@
+spring.datasource.url=jdbc:postgresql://localhost:5432/movie
+spring.datasource.username=postgres
+spring.datasource.password=harish
+#spring.jpa.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
+spring.jpa.hibernate.ddl-auto=update
+#spring.jpa.properties.hibernate.boot.allow_jdbc_metadata_access=false
+server.port=7070
+spring.datasource.driver-class-name=org.postgresql.Driver

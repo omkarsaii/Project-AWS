@@ -1,0 +1,6 @@
+spring.datasource.url=jdbc:postgresql://localhost:5432/customer
+spring.datasource.username=postgres
+spring.datasource.password=harish
+spring.jpa.properties.hibernate.boot.allow_jdbc_metadata_access=false
+movie.service.url=http://localhost:7070
+server.port=8080
